@@ -1,0 +1,8 @@
+Metric,Centralized Learning,Federated Learning,DP Federated Learning
+Test Accuracy,0.9825,0.9737,0.9474
+Accuracy Drop from Best Centralized,0.0000 (baseline),0.0088,0.0351
+Privacy Level,None,Partial (model updates only),Strong (ε≤4.0)
+Data Sharing Required,Yes (all data),No,No
+Individual Privacy,No,Limited,Yes
+Communication Rounds,N/A,10,10
+Computational Overhead,Low,Medium,High

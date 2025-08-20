@@ -1,0 +1,5 @@
+Approach,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Privacy Level,Data Sharing
+Centralized LR,0.9825,0.9861,0.9861,0.9861,0.9954,None,Required
+Centralized RF,0.9561,0.9589,0.9722,0.9655,0.9945,None,Required
+Federated Learning (no DP),0.9737,0.9726,0.9861,0.9793,0.9947,Partial,Not Required
+DP Federated Learning,0.9474,0.9342,0.9861,0.9595,0.9854,Strong,Not Required

@@ -1,0 +1,5 @@
+Approach,Test Accuracy,Privacy Preserved,Data Sharing,Training Time,Scalability
+Centralized LR,0.9824561403508771,No,Required,Fast,Poor
+Centralized RF,0.956140350877193,No,Required,Medium,Poor
+Federated Learning,0.9736841917037964,Partial,Not Required,Medium,Excellent
+DP Federated Learning,0.9473684430122375,Yes,Not Required,Slow,Excellent

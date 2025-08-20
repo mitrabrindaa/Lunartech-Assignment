@@ -1,0 +1,4 @@
+Dataset,Total Samples,Malignant,Malignant %,Benign,Benign %
+Hospital A,216,102,47.2%,114,52.8%
+Hospital B,239,68,28.5%,171,71.5%
+Test Set,114,42,36.8%,72,63.2%
