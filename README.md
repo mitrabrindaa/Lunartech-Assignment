@@ -430,9 +430,8 @@ MIT License - see LICENSE file for details
 ## 📧 Contact
 
 For questions, issues, or contributions:
-- GitHub Issues: [Create an issue](link-to-issues)
-- Email: [your-email@domain.com]
-- Documentation: [Link to additional docs]
+- Email: [mitrabrindasjd24@gmail.com]
+
 
 ---
 
